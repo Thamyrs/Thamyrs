@@ -1,7 +1,7 @@
 # Olá, meu nome é Thamyrs (com 'rs' mesmo) 👋
 
 ## Sobre mim
-Sou estudante de informática, atualmente estudando PHP e tecnologias básicas de front-end (HTML, CSS, JS). Também possuo conhecimentos e estou estudando sobre em Cloud Computing, bash e segurança da informação.
+Sou estudante de informática. Atualmente estudando sobre Java. Também possuo conhecimentos nas áreas de cloud computing (tenho as certificações SAA da AWS e SC-900, AZ-900 da Azure!), infraestrutura de redes e segurança da informação.  
 
 ## Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamyrs)](https://github.com/anuraghazra/github-readme-stats)
